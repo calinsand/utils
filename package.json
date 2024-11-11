@@ -1,0 +1,22 @@
+{
+  "name": "@calinsand/utils",
+  "version": "1.0.0",
+  "description": "JS utilites",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/calinsand/utils.git"
+  },
+  "keywords": [
+    "utilities"
+  ],
+  "author": "Calin Sandor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/calinsand/utils/issues"
+  },
+  "homepage": "https://github.com/calinsand/utils#readme"
+}
